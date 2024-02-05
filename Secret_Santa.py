@@ -251,7 +251,7 @@ def mytoggle():
 
 
 def about():
-    message = 'Thanks 4 testing!\nGitHUB: pilafxy\nVersion: 1.2'
+    message = 'Thanks 4 testing!\nGitHUB: pilafxy\nVersion: 1.3'
     tk.messagebox.showinfo('About', message)
 
 
